@@ -8,7 +8,7 @@
         "profile_img": "images/PORT_LOGO_GRUEN_Rand.webp",
         "profile_img_alt": "Author avatar",
         "background": "light",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
