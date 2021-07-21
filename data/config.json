@@ -7,7 +7,7 @@
         "tagline": "Freude am Fest!",
         "profile_img": "images/PORT_LOGO_GRUEN_Rand.webp",
         "profile_img_alt": "Author avatar",
-        "background": "dark",
+        "background": "light",
         "has_nav": true,
         "nav_links": [
             {
